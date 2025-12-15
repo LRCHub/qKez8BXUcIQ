@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "愛してみてよ減るもんじゃないし",
+  "base_artist": "ねぐせ。",
+  "createdAt": "2025-12-15T12:18:19.277832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛してみてよ減るもんじゃないし",
+      "artist": "ねぐせ。",
+      "has_synced": true,
+      "path": "select/01_愛してみてよ減るもんじゃないし_ねぐせ。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛してみてよ減るもんじゃないし",
+      "artist": "neguse.",
+      "has_synced": true,
+      "path": "select/02_愛してみてよ減るもんじゃないし_neguse..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛してみてよ減るもんじゃないし",
+      "artist": "ねぐせ。",
+      "has_synced": false,
+      "path": "select/pl_01_愛してみてよ減るもんじゃないし_ねぐせ。.txt"
+    }
+  ]
+}
